@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OY85WxB/CiTt8J9dSDFOMTN/H6T1iHRSmjWqU75XRJEaYbgJthd7ncG6NJ3+oBj7BTkqB8CEQKOs0rge/lcETA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\plhus\\Documents\\Projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plhus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\plhus\\.nuget\\packages\\selenium.webdriver\\4.11.0\\selenium.webdriver.4.11.0.nupkg.sha512",
+    "C:\\Users\\plhus\\.nuget\\packages\\selenium.webdriver.chromedriver\\116.0.5845.9600\\selenium.webdriver.chromedriver.116.0.5845.9600.nupkg.sha512"
+  ],
+  "logs": []
+}

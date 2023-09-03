@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "a8go/DhfIjnO+/cg90nL/jC0SkiDMf5QWffDLNY85vvTsi458jtoNcDPkd9Tw3YaFbx19rC0czlqdfxs1X61sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\plhus\\Documents\\Projects\\MailNew\\MailNew\\MailNew.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plhus\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\plhus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\plhus\\.nuget\\packages\\selenium.webdriver\\4.11.0\\selenium.webdriver.4.11.0.nupkg.sha512",
+    "C:\\Users\\plhus\\.nuget\\packages\\selenium.webdriver.chromedriver\\116.0.5845.9600\\selenium.webdriver.chromedriver.116.0.5845.9600.nupkg.sha512"
+  ],
+  "logs": []
+}
